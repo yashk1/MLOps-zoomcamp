@@ -18,5 +18,5 @@ Build a Machine learning model that predicts the duration of a taxi trip using T
 Open virutal machine using Github codespaces.
 https://www.youtube.com/watch?v=MzcmWXYxi2s&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=2
 
-##### Anaconda installation on Codespaces
+**Anaconda installation on Codespaces**
 https://docs.anaconda.com/free/anaconda/install/linux/
